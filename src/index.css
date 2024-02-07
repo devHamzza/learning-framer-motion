@@ -156,6 +156,7 @@ main {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  /* cursor: pointer; */
 }
 
 #challenges {
@@ -299,11 +300,6 @@ main {
   color: #fff;
   border: none;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.new-challenge-actions button:hover,
-.button:hover {
-  background-color: #0f3cef;
 }
 
 .modal {
